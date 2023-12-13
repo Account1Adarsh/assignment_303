@@ -6,7 +6,7 @@ int add(int arr[],int pos,int tail,int val){
             printf("Cannot add the element at given position in list\n");
             return tail;
         }
-        if(tail==100){
+        if(tail==99){
             printf("Array is full\n");
             return tail;
         }
