@@ -10,5 +10,6 @@ int main(){
     printf("Enter the number for factorial: ");
     scanf("%d",&n);
     printf("Factorial of %d is %d",n,fact(n));
+    //wow trying to commit change by forking
     return 0;
 }
