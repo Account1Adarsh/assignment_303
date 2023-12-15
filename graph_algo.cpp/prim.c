@@ -38,6 +38,7 @@ int prim(int V,int graph[V][V]){
             }
         }
     }
+    return res;
 }
 
 
